@@ -1,1 +1,1 @@
-﻿# Lab402: 
+﻿# Lab402: Shape abstract class, Rectangle and Triangle classes
